@@ -1,0 +1,15 @@
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\Less4.csproj.AssemblyReference.cache
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\Less4.GeneratedMSBuildEditorConfig.editorconfig
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\Less4.AssemblyInfoInputs.cache
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\Less4.AssemblyInfo.cs
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\Less4.csproj.CoreCompileInputs.cache
+J:\dev\GB\C#\Less4\bin\Debug\net6.0\Less4.exe
+J:\dev\GB\C#\Less4\bin\Debug\net6.0\Less4.deps.json
+J:\dev\GB\C#\Less4\bin\Debug\net6.0\Less4.runtimeconfig.json
+J:\dev\GB\C#\Less4\bin\Debug\net6.0\Less4.dll
+J:\dev\GB\C#\Less4\bin\Debug\net6.0\Less4.pdb
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\Less4.dll
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\refint\Less4.dll
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\Less4.pdb
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\Less4.genruntimeconfig.cache
+J:\dev\GB\C#\Less4\obj\Debug\net6.0\ref\Less4.dll
